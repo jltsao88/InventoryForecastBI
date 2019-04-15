@@ -7,4 +7,4 @@ Purchase orders,
 Inventory, 
 Item List, 
 
-The report displays a live inventory of items and displays the forecasted inventory days out takign into account sales and purchase orders.
+The report displays a live inventory of items, and displays the forecasted inventory many days out, taking into account sales and purchase orders.
